@@ -1,4 +1,4 @@
-# 9th place solution in 9th place solution in TPSMAY22
+# 9th place solution in TPSMAY22
 
 Tabular Playground Series - May 2022で9位を取ったコードをそのまま載せています。
 kaggle上でも公開しておりますので、kaggle notebook上で動かしたい場合には、以下のURLからご参照ください。
