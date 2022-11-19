@@ -1,14 +1,16 @@
 # 9th place solution in TPSMAY22
 
-Tabular Playground Series - May 2022で9位を取ったコードをそのまま載せています。
-kaggle上でも公開しておりますので、kaggle notebook上で動かしたい場合には、以下のURLからご参照ください。
+Tabular Playground Series - May 2022で【9th/1151】を取ったコードを載せています。
+実際に動かす際には以下のkaggle上のnotebookを推奨いたします。
 
-# 解法
-・特徴量エンジニアリング
+https://www.kaggle.com/code/deepernet/9th-place-solution-in-tpsmay22
 
 
-・モデル構造
-以下のニューラルネットワーク構造を作成し、200epochs程学習させました。
+コンペの詳細、解法に関しては以下のzennの記事をご覧下さい。
+
+https://zenn.dev/bizyu/articles/5e7dae75dcbc06
+
+
 
 
 
