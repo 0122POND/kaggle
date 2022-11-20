@@ -6,7 +6,7 @@ Tabular Playground Series - May 2022で【9th/1151】を取ったコードを載
 https://www.kaggle.com/code/deepernet/9th-place-solution-in-tpsmay22
 
 
-コンペ、解法、コードの詳細に関しては以下のzennの記事をご覧下さい。
+コンペの概要・解法・コードの詳細に関しては以下のzennの記事をご覧下さい。
 
 https://zenn.dev/bizyu/articles/5e7dae75dcbc06
 
